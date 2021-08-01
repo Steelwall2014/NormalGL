@@ -1,0 +1,4 @@
+D:\1_study\计算机图形学\NormalGL\NormalGL_20210119_4\Debug\NormalGL.exe
+D:\1_study\计算机图形学\NormalGL\NormalGL_20210119_4\Debug\NormalGL.pdb
+D:\1_study\计算机图形学\NormalGL\Debug\NormalGL.exe
+D:\1_study\计算机图形学\NormalGL\Debug\NormalGL.pdb
